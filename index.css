@@ -1,0 +1,58 @@
+* {
+  font-family: cursive;
+  /* color: white; */
+  /* background-color: black; */
+}
+
+nav {
+  text-align: center;
+  text-shadow: aquamarine;
+  font-size: 25px;
+  text-shadow: black;
+  /* text-decoration: underline; */
+}
+
+.nav-logo {
+  background-color: aliceblue;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+body {
+  background-image: url(Bg\pexels-andreea-ch-1166643.jpg);
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+}
+
+.abtn {
+  height: 55px;
+  width: 55px;
+  border-radius: 50%;
+  border: 1px solid white;
+  background-color: #1a1918;
+  color: white;
+}
+
+#alpha-grid {
+  border: none
+}
+
+#note {
+  visibility: hidden;
+}
+
+#lvl {
+  visibility: hidden;
+  color: green;
+}
+
+#next {
+  margin-top: 2%;
+  width: 30%;
+  height: 40px;
+  border-radius: 100px;
+  background-color: aliceblue;
+}
