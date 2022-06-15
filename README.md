@@ -1,4 +1,4 @@
-##The Project is a simple game in which the user has to guess the correct Alphabets based on the questions asked
+## The Project is a simple game in which the user has to guess the correct Alphabets based on the questions asked
 
 Each question itself is a level which the user has to master, with every question the difficulty increases.
 
